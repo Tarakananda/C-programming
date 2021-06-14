@@ -1,3 +1,5 @@
+//AND gate example and a comma seperated in for loop
+
 #include <stdio.h>
 int main()
 {

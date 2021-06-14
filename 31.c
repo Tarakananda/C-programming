@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                 //program to find a perfect number
 int main()
 {
 int num, rem, sum = 0, i;

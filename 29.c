@@ -1,14 +1,14 @@
-#include <stdio.h>
+#include <stdio.h>                  //recursion method
 #include <math.h>
 float king(double a,double b)
 {
     int i;
     int j;
     int sum=1;
-    for (i=a;i>0;i)
+    for (i=a;i>0;i--)
     {
         for (j=b;j>0;j--)
-        sum=sum*i;
+            sum=sum*i;
         return(sum);
     }
 }

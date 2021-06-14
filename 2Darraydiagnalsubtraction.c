@@ -1,3 +1,5 @@
+//write a program of a 2D array daigonal subtraction
+
 #include <stdio.h>
 
 int main()

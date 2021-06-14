@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                  //practice program
 int main()
 {
     int k,w;

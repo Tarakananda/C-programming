@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                  //if and while loop 
 int main()
 {
     int w;

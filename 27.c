@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>              //square root of a function
 #include<math.h>
 double sqrt(int a)
 {

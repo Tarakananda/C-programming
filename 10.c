@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                              //patterns concept
 int main()
 {
     int i, j, g=1;

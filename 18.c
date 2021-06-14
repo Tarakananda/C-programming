@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                          //nCr value
 int main()
 {
     int n,r,i,a,b,c,g,f;

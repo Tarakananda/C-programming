@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                          //sumation of digits
 int main()
 {
     int a;

@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <stdio.h>                      //summation of digits using recursion
 int sumofdigits(int num)
 {
     int sum=0;
     while (num>0)
     {
         int dig=num%10;
-        sum+= dig;/* code */
+        sum+= dig;
         num=num/10;
     }
     return sum;
