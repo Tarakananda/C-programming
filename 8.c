@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                    //loop concept
 int main()
 {
     int i,j;

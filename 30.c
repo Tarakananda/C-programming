@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                      //finding an amstron number
 int main()
 {
     int result=0;

@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                      //pallindrome number
 int main()
 {
     int n;

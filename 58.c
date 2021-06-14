@@ -16,20 +16,9 @@ char **split_string(char *);
 
 int parse_int(char *);
 
-/*
- * Complete the 'printShortestPath' function below.
- *
- * The function accepts following parameters:
- *  1. INTEGER n
- *  2. INTEGER i_start
- *  3. INTEGER j_start
- *  4. INTEGER i_end
- *  5. INTEGER j_end
- */
-
 void printShortestPath(int n, int i_start, int j_start, int i_end, int j_end)
 {
-    // Print the distance along with the sequence of moves.
+
 }
 
 int main()

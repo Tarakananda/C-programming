@@ -1,4 +1,7 @@
-#include <stdio.h>   /*(a^n)%c*/
+//write a sample example of the for loop making the remainder to multiply with the devisor and the divide it again
+
+#include <stdio.h>                                             /*(a^n)%c*/              
+
 int main()
 {
     long long int a,n,c,d,i;

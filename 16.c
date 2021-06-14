@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                          //factorial of a number
 int main()
 {
     int a;

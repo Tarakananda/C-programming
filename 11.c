@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                                          //prime number
 int main()
 {
     int n, i, flag = 0;

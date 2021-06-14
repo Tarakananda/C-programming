@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>          //small problem on recursion
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>

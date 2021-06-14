@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                      //loop statement
 int main()
 {
     int a=1;

@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>                      //switch case example
 int main()
 {
     int i;
@@ -9,7 +9,7 @@ int main()
         printf("tharak nandha\n");
         break;
     case 2:
-        printf("lohitha naidu\n");
+        printf("lohitha \n");
         break;
     case 3:
         printf("bharath kumar\n");

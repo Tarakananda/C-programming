@@ -1,3 +1,5 @@
+//case sensitive float working principle example
+
 #include <stdio.h>
 int main()
 {

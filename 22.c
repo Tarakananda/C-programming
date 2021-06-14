@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>              //printing pattern
 int main()
 {
     int i,j;
